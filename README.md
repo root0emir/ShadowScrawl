@@ -4,7 +4,7 @@
   <img src="docs/banner.png" alt="ShadowScrawl Logo" width="600">
   
   <br>
-  <strong>🌐 Advanced Dark Web OSINT Tool 🔍</strong>
+  <strong>🌐 ShadowScrawl  Dark Web OSINT Tool 🔍</strong>
   <br>
   <em>Scrape, analyze, and visualize the hidden web securely and anonymously</em>
 </div>
